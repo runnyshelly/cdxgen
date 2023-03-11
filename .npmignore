@@ -12,6 +12,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 # Runtime data
 pids
 *.pid
+BIB-2 #comment corrected indent issue 
 *.seed
 *.pid.lock
 
